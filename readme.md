@@ -30,7 +30,7 @@ Selecionei **4 fontes abertas** de qualidade (todas em texto ou PDF). Elas foram
 
 Aqui documentei o processo de testes:
 
-**Prompt inicial testado:**
+**Prompt inicial testado (versão 1):**
 > "Resuma o conceito de Inteligência Artificial"
 ![prompt-notebooklm](prompt-notebooklm-1.png)
 
@@ -41,21 +41,39 @@ Aqui documentei o processo de testes:
 ![alt text](image.png)
 **Resultado obtido:** Nenhum, o sistema não conseguiu responder.
 
-**Outra variação testada:**
-> "Crie um glossário com os 10 principais termos de [tema], com definição curta e exemplo."
+**Outra variação testada (versão 3):**
+> "Defina Inteligência Artificial em 2 frases e cite 1 aplicação prática."
+![alt text](image-1.png)
+**Resultado obtido:** Dessa vez ele respondeu, e de forma precisa, exatamente como eu pedi.
 
 **Dificuldades e lições aprendidas:**
-- Prompts vagos geram respostas rasas → solução: sempre especifique formato, público-alvo e pedir citações.
+- Prompts genéricos geram respostas amplas → solução: sempre especifique formato, público-alvo e pedir citações.
 - NotebookLM é fiel apenas às fontes enviadas (não inventa) → importante ter boas fontes.
-- Testei 5 variações até chegar no melhor resultado.
-
-*(Registre aqui 3-4 prompts que você realmente testou no NotebookLM, com antes/depois e o que aprendeu.)*
+- Testei 3 variações e experimentei resultados diversos.
 
 ## Miniguia de Estudo (Entrega Final)
 
 ### Resumos Estruturados
-- **Resumo 1:** [Cole aqui um resumo bom gerado pelo NotebookLM sobre o tema principal]
-- **Resumo 2:** [Outro ponto importante]
+- **Resumo 1:** A Inteligência Artificial (IA) é um campo da ciência da computação dedicado à criação de sistemas e máquinas capazes de realizar tarefas que, normalmente, exigiriam inteligência humana, como aprender, raciocinar, tomar decisões e reconhecer padrões
+. De maneira abrangente, o conceito pode ser resumido como o conjunto de ações que seriam consideradas inteligentes caso fossem realizadas por um ser humano
+. Mais especificamente, a IA é definida como a capacidade de sistemas cibernéticos imitarem funções cognitivas humanas, focando na resolução de problemas através do aprendizado apoiado pela percepção
+.
+Para que um sistema seja caracterizado como IA, ele geralmente se baseia em três pilares fundamentais:
+Resolução de Problemas: A capacidade de realizar tarefas e atingir respostas corretas através de regras e algoritmos
+.
+Aprendizado (Machine Learning): A característica que permite aos algoritmos melhorar seu próprio desempenho por meio da experiência, ajustando parâmetros internos com base em dados anteriores
+.
+Percepção: A capacidade de coletar e deduzir informações do ambiente, seja por meio de sensores físicos ou pela leitura lógica de dados
+.
+O objetivo final da tecnologia é permitir que as máquinas observem, analisem e ajam de forma semelhante ou até superior às pessoas em tarefas específicas
+. Os estudos na área costumam ser classificados em quatro grandes frentes: sistemas que pensam como seres humanos, sistemas que pensam racionalmente, sistemas que agem como seres humanos e sistemas que agem racionalmente
+. Atualmente, a IA já faz parte do cotidiano em diversas formas, como assistentes virtuais, sistemas de recomendação e diagnósticos médicos, transformando a maneira como problemas complexos são solucionados
+
+- **Resumo 2:** A Inteligência Artificial (IA) é uma área da ciência da computação dedicada à criação de sistemas e máquinas capazes de realizar tarefas que, normalmente, exigiriam a inteligência humana, como aprender, raciocinar e reconhecer padrões
+. Basicamente, ela permite que entidades cibernéticas imitem funções cognitivas para a resolução de problemas por meio de um processo de aprendizado contínuo apoiado pela percepção
+.
+Uma aplicação prática comum da IA é encontrada nos sistemas de recomendação de plataformas de streaming, como a Netflix, que analisa o comportamento e as preferências do usuário para sugerir filmes e séries personalizados
+.
 
 ### Glossário de Conceitos
 - **Termo 1:** Definição + exemplo
