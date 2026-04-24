@@ -78,6 +78,22 @@ Uma aplicação prática comum da IA é encontrada nos sistemas de recomendaçã
 ### Glossário de Conceitos
 - **Termo 1:** Definição + exemplo
 - **Termo 2:** ...
+### Glossário de termos sobre Inteligência Artificial
+
+| **Termo** | **Definição breve** |
+|---|---|
+| **Inteligência Artificial (IA)** | Sistemas que imitam funções cognitivas humanas para resolver problemas. |
+| **Resolução de Problemas** | Uso de regras e algoritmos para alcançar respostas corretas. |
+| **Aprendizado de Máquina (Machine Learning)** | Algoritmos que melhoram com experiência ajustando parâmetros a partir de dados. |
+| **Percepção** | Coleta e interpretação de informações do ambiente por sensores ou dados. |
+| **Sistemas que pensam como seres humanos** | Modelos que tentam replicar processos cognitivos humanos. |
+| **Sistemas que pensam racionalmente** | Sistemas que usam lógica e raciocínio para tomar decisões ótimas. |
+| **Sistemas que agem como seres humanos** | Agentes que imitam comportamento humano observável. |
+| **Sistemas que agem racionalmente** | Agentes que escolhem ações para maximizar objetivos definidos. |
+| **Sistemas de recomendação** | Aplicações que sugerem conteúdo com base em comportamento e preferências. |
+| **Assistente virtual** | Agente conversacional que realiza tarefas e responde a usuários. |
+| **Diagnóstico médico assistido por IA** | Uso de modelos para apoiar identificação e prognóstico de doenças. |
+| **Riscos éticos** | Questões como viés, privacidade, responsabilidade e impacto social. |
 
 ### Prompts Reutilizáveis
 Aqui vão prompts que você pode copiar e usar em qualquer NotebookLM futuro:
