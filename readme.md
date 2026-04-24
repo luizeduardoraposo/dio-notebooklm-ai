@@ -16,10 +16,9 @@ Esse caderno demonstra como a IA pode ser usada como ferramenta ativa de aprendi
 
 Selecionei **4 fontes abertas** de qualidade (todas em texto ou PDF). Elas foram enviadas para o NotebookLM:
 
-1. **A linha do tempo da Inteligência Artificial** - https://www.atra.com.br/2024/10/24/a-linha-do-tempo-da-inteligencia-artificial/  
-   (Ex: "Prompt Engineering Guide" - Artigo oficial da OpenAI)
+1. **A linha do tempo da Inteligência Artificial** - [\[Link\]] (https://www.atra.com.br/2024/10/24/a-linha-do-tempo-da-inteligencia-artificial/)
 
-2. **Manual de Inteligência Artificial** - [\[Link\]](https://brasil.ia.inesq.org.br/wp-content/uploads/2025/03/Manual-de-Inteligencia-Artificial-Site-Download.pdf)
+2. **Manual de Inteligência Artificial** - [\[Link\]](https://brasil.ia.inesq.org.br/wp-content/uploads/2025/03/Manual-de-Inteligencia-Artificial-Site-Download.pdf) (PDF)
 
 3. **Inteligência Artificial
 ** - [\[Link\]](https://cm-kls-content.s3.amazonaws.com/201802/INTERATIVAS_2_0/INTELIGENCIA_ARTIFICIAL/U1/LIVRO_UNICO.pdf) (PDF)
