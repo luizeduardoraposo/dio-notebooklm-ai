@@ -34,12 +34,12 @@ Aqui documentei o processo de testes:
 > "Resuma o conceito de Inteligência Artificial"
 ![prompt-notebooklm](prompt-notebooklm-1.png)
 
-**Problema encontrado:** A resposta era muito genérica e superficial.
+**Problema encontrado:** A resposta foi concisa e clara, então não tive problemas.
 
 **Prompt aprimorado (versão 2):**
-> "Atue como um especialista em Prompt Engineering. Explique o conceito de Chain-of-Thought prompting, dê 3 exemplos práticos e cite as fontes do caderno. Estruture a resposta com seções claras: Definição, Benefícios e Exemplos."
-
-**Resultado obtido:** Muito melhor, com estrutura e referências.
+> "Resuma o conceito de Inteligência Artificial de forma clara e concisa, depois expanda com tópicos essenciais: principais técnicas, aplicações práticas, benefícios e riscos éticos, marcos históricos e perguntas abertas para aprofundamento; finalize com duas sugestões de termos ou leituras para pesquisa."
+![alt text](image.png)
+**Resultado obtido:** Nenhum, o sistema não conseguiu responder.
 
 **Outra variação testada:**
 > "Crie um glossário com os 10 principais termos de [tema], com definição curta e exemplo."
