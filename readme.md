@@ -93,29 +93,29 @@ Uma aplicação prática comum da IA é encontrada nos sistemas de recomendaçã
 
 # Prompts reutilizáveis sobre Inteligência Artificial
 
-## - "Explique em 2 frases o que é Inteligência Artificial, destacando aprendizado e percepção."
+### - "Explique em 2 frases o que é Inteligência Artificial, destacando aprendizado e percepção."
 
-## - "Liste e descreva brevemente as principais técnicas de IA: ML, DL, RL, NLP, CV."
+### - "Liste e descreva brevemente as principais técnicas de IA: ML, DL, RL, NLP, CV."
 
-## - "Resuma em 5 passos como um sistema de IA passa de dados brutos a decisões acionáveis."
+### - "Resuma em 5 passos como um sistema de IA passa de dados brutos a decisões acionáveis."
 
-## - "Cite 6 aplicações reais de IA em diferentes setores e explique um benefício por aplicação."
+### - "Cite 6 aplicações reais de IA em diferentes setores e explique um benefício por aplicação."
 
-## - "Apresente 5 benefícios sociais e econômicos trazidos pela IA, com exemplos curtos."
+### - "Apresente 5 benefícios sociais e econômicos trazidos pela IA, com exemplos curtos."
 
-## - "Liste 6 riscos éticos da IA (viés, privacidade, transparência, desemprego, segurança, responsabilidade) e uma mitigação para cada."
+### - "Liste 6 riscos éticos da IA (viés, privacidade, transparência, desemprego, segurança, responsabilidade) e uma mitigação para cada."
 
-## - "Apresente 8 marcos históricos da IA em ordem cronológica, com uma linha explicativa cada."
+### - "Apresente 8 marcos históricos da IA em ordem cronológica, com uma linha explicativa cada."
 
-## - "Sugira 10 perguntas abertas para aprofundamento acadêmico ou de produto em IA."
+### - "Sugira 10 perguntas abertas para aprofundamento acadêmico ou de produto em IA."
 
-## - "Quais métricas e testes rápidos usar para avaliar um modelo de IA em produção?"
+### - "Quais métricas e testes rápidos usar para avaliar um modelo de IA em produção?"
 
-## - "Crie um checklist curto (10 itens) para colocar um sistema de IA em produção com segurança e governança."
+### - "Crie um checklist curto (10 itens) para colocar um sistema de IA em produção com segurança e governança."
 
-## - "Resuma o estado atual da IA em 6 frases para um gestor não técnico."
+### - "Resuma o estado atual da IA em 6 frases para um gestor não técnico."
 
-## - "Indique 3 termos-chave e 2 leituras introdutórias para começar a estudar IA."
+### - "Indique 3 termos-chave e 2 leituras introdutórias para começar a estudar IA."
 
 # Conclusão
 Esse projeto me ajudou a entender melhor sobre Inteligência Artificial e a dominar o uso do NotebookLM como ferramenta de estudo ativa.
