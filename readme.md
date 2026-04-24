@@ -91,23 +91,47 @@ Uma aplicação prática comum da IA é encontrada nos sistemas de recomendaçã
 | **Diagnóstico médico assistido por IA** | Uso de modelos para apoiar identificação e prognóstico de doenças. |
 | **Riscos éticos** | Questões como viés, privacidade, responsabilidade e impacto social. |
 
-### Prompts Reutilizáveis
-Aqui vão prompts que você pode copiar e usar em qualquer NotebookLM futuro:
+# Prompts reutilizáveis sobre Inteligência Artificial
 
-1. **Prompt para Resumo Estruturado:**
-   > "Crie um resumo estruturado sobre [tópico] usando apenas as fontes do caderno. Inclua seções: Introdução, Principais Conceitos, Aplicações Práticas e Conclusão."
+## Definição clara
+- "Explique em 2 frases o que é Inteligência Artificial, destacando aprendizado e percepção."
 
-2. **Prompt para Glossário:**
-   > ...
+## Técnicas essenciais
+- "Liste e descreva brevemente as principais técnicas de IA: ML, DL, RL, NLP, CV."
 
-3. **Prompt para Mapa Mental ou Questões:**
-   > ...
+## Fluxo de funcionamento
+- "Resuma em 5 passos como um sistema de IA passa de dados brutos a decisões acionáveis."
 
-*(Vá no NotebookLM, faça as perguntas e cole os melhores resultados aqui.)*
+## Aplicações práticas
+- "Cite 6 aplicações reais de IA em diferentes setores e explique um benefício por aplicação."
+
+## Benefícios e impactos
+- "Apresente 5 benefícios sociais e econômicos trazidos pela IA, com exemplos curtos."
+
+## Riscos éticos
+- "Liste 6 riscos éticos da IA (viés, privacidade, transparência, desemprego, segurança, responsabilidade) e uma mitigação para cada."
+
+## Marcos históricos
+- "Apresente 8 marcos históricos da IA em ordem cronológica, com uma linha explicativa cada."
+
+## Perguntas de pesquisa
+- "Sugira 10 perguntas abertas para aprofundamento acadêmico ou de produto em IA."
+
+## Avaliação de modelos
+- "Quais métricas e testes rápidos usar para avaliar um modelo de IA em produção?"
+
+## Checklist de implantação
+- "Crie um checklist curto (10 itens) para colocar um sistema de IA em produção com segurança e governança."
+
+## Resumo executivo
+- "Resuma o estado atual da IA em 6 frases para um gestor não técnico."
+
+## Leituras e termos
+- "Indique 3 termos-chave e 2 leituras introdutórias para começar a estudar IA."
 
 ## Conclusão
-Esse projeto me ajudou a entender melhor [tema] e a dominar o uso do NotebookLM como ferramenta de estudo ativa.
+Esse projeto me ajudou a entender melhor sobre Inteligência Artificial e a dominar o uso do NotebookLM como ferramenta de estudo ativa.
 
-Link do NotebookLM usado: (opcional, se quiser compartilhar o caderno público)
+Link do NotebookLM usado: https://notebooklm.google.com/notebook/7c6a1088-59a6-4ee4-9574-5c7decbbf034
 
 Feito com ❤️ para o desafio da DIO.
