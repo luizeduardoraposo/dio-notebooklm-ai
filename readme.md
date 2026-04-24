@@ -74,10 +74,6 @@ O objetivo final da tecnologia é permitir que as máquinas observem, analisem e
 .
 Uma aplicação prática comum da IA é encontrada nos sistemas de recomendação de plataformas de streaming, como a Netflix, que analisa o comportamento e as preferências do usuário para sugerir filmes e séries personalizados
 .
-
-### Glossário de Conceitos
-- **Termo 1:** Definição + exemplo
-- **Termo 2:** ...
 ### Glossário de termos sobre Inteligência Artificial
 
 | **Termo** | **Definição breve** |
