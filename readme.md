@@ -31,7 +31,8 @@ Selecionei **4 fontes abertas** de qualidade (todas em texto ou PDF). Elas foram
 Aqui documentei o processo de testes:
 
 **Prompt inicial testado:**
-> "Resuma o conceito de prompt engineering"
+> "Resuma o conceito de Inteligência Artificial"
+![prompt-notebooklm](prompt-notebooklm-1.png)
 
 **Problema encontrado:** A resposta era muito genérica e superficial.
 
