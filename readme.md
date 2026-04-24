@@ -20,8 +20,7 @@ Selecionei **4 fontes abertas** de qualidade (todas em texto ou PDF). Elas foram
 
 2. **Manual de Inteligência Artificial** - [\[Link\]](https://brasil.ia.inesq.org.br/wp-content/uploads/2025/03/Manual-de-Inteligencia-Artificial-Site-Download.pdf) (PDF)
 
-3. **Inteligência Artificial
-** - [\[Link\]](https://cm-kls-content.s3.amazonaws.com/201802/INTERATIVAS_2_0/INTELIGENCIA_ARTIFICIAL/U1/LIVRO_UNICO.pdf) (PDF)
+3. **Inteligência Artificial** - [\[Link\]](https://cm-kls-content.s3.amazonaws.com/201802/INTERATIVAS_2_0/INTELIGENCIA_ARTIFICIAL/U1/LIVRO_UNICO.pdf) (PDF)
 
 4. **Tipos de inteligência artificial e as funções de cada uma** - [\[Link\]](https://www.braze.com/pt-br/resources/articles/tipos-de-inteligencia-artificial)
 
