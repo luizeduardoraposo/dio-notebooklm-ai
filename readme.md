@@ -1,12 +1,12 @@
-# Caderno Temático com NotebookLM: [Nome do Seu Tema]
+# Caderno Temático com NotebookLM: Introdução à Inteligência Artificial
 
 ## Contexto e Objetivos
 
-Neste projeto, utilizei o **NotebookLM** (ferramenta de IA do Google) para criar um caderno temático sobre **[seu tema]**.
+Neste projeto, utilizei o **NotebookLM** (ferramenta de IA do Google) para criar um caderno temático sobre **Introdução à Inteligência Artificial**.
 
 **Objetivos de estudo:**
-- Entender os conceitos fundamentais de [tema]
-- Aprender a aplicar [tema] na prática
+- Entender os conceitos fundamentais de Introdução à Inteligência Artificial
+- Aprender a aplicar Introdução à Inteligência Artificial na prática
 - Desenvolver habilidades de curadoria de conteúdo e engenharia de prompts
 - Criar um material reutilizável para revisões futuras
 
@@ -16,16 +16,16 @@ Esse caderno demonstra como a IA pode ser usada como ferramenta ativa de aprendi
 
 Selecionei **4 fontes abertas** de qualidade (todas em texto ou PDF). Elas foram enviadas para o NotebookLM:
 
-1. **[Título da Fonte 1]** - [Link]  
+1. **A linha do tempo da Inteligência Artificial** - https://www.atra.com.br/2024/10/24/a-linha-do-tempo-da-inteligencia-artificial/  
    (Ex: "Prompt Engineering Guide" - Artigo oficial da OpenAI)
 
-2. **[Título da Fonte 2]** - [Link]
+2. **Manual de Inteligência Artificial** - [\[Link\]](https://brasil.ia.inesq.org.br/wp-content/uploads/2025/03/Manual-de-Inteligencia-Artificial-Site-Download.pdf)
 
-3. **[Título da Fonte 3]** - [Link] (PDF)
+3. **Inteligência Artificial
+** - [\[Link\]](https://cm-kls-content.s3.amazonaws.com/201802/INTERATIVAS_2_0/INTELIGENCIA_ARTIFICIAL/U1/LIVRO_UNICO.pdf) (PDF)
 
-4. **[Título da Fonte 4]** - [Link]
+4. **Tipos de inteligência artificial e as funções de cada uma** - [\[Link\]](https://www.braze.com/pt-br/resources/articles/tipos-de-inteligencia-artificial)
 
-*(Dica: busque fontes confiáveis como artigos da IBM, Google, Coursera, ou PDFs gratuitos no Google Scholar/ResearchGate. Se precisar de ajuda para encontrar fontes específicas do seu tema, me avise!)*
 
 ## Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 
